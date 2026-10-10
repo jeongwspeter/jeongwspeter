@@ -2,7 +2,7 @@
 
 Laboratory scientist turned healthcare data analyst, based in Seattle. Seven years of bench work in clinical and environmental microbiology, including three and a half years in a CLIA-certified public health lab reporting through the Clinisys Apollo LIS. Now I take messy public data, clean it in SQL with every exclusion documented, and turn it into a KPI a manager can act on.
 
-**Tools:** SQL (MySQL), Tableau, Excel
+**Tools:** SQL (MySQL), Tableau, Excel, Power BI
 
 ## Projects
 
