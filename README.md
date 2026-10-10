@@ -13,7 +13,7 @@ Laboratory scientist turned healthcare data analyst, based in Seattle. Seven yea
 
 **Next:** a healthcare dataset project (in progress). The Seattle analysis measures median and p90 turnaround, which stage holds the slow cases, and how many correction rounds they go through. That's the same structure as specimen turnaround time.
 
-Both projects use real public data (Seattle Open Data, NYC Checkbook), not synthetic sets. Each repo has the SQL in run order, the result of every query, and a cleaning decisions log.
+Both projects use real public data from Seattle Open Data and NYC Checkbook. Each repo has the SQL in run order, the result of every query, and a cleaning decisions log.
 
 ## Contact
 
